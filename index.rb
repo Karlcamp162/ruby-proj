@@ -13,5 +13,5 @@ puts var.round
 
 
 something = gets.chomp
-puts "hello " + something + ", anothing shi"
+puts "hello " + something + ", anothing she"
 
